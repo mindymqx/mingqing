@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mindymqx/al-folio",
+    "data-repo": "mindymqx/mingqing",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
